@@ -23,5 +23,5 @@
 <h2>Certifications</h2>
 
   - **Google IT Support Certification** (Current 10/24)
-  - **CompTIA A+** (Expected 12/24)
-  - **CompTIA Network+** (Expected 05/25)
+  - **CompTIA A+ Certification** (Expected 12/24)
+  - **CompTIA Network+ Certification** (Expected 05/25)
